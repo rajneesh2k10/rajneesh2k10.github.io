@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on rajneesh.me</title>
-    <link>https://rajneesh2k10.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on rajneesh.me</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2025, Rajneesh Kumar</copyright>
     <lastBuildDate>Tue, 07 Jan 2025 20:22:36 -0800</lastBuildDate>
-    <atom:link href="https://rajneesh2k10.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstpost</title>
-      <link>https://rajneesh2k10.github.io/posts/firstpost/</link>
+      <link>http://localhost:1313/posts/firstpost/</link>
       <pubDate>Tue, 07 Jan 2025 20:22:36 -0800</pubDate>
-      <guid>https://rajneesh2k10.github.io/posts/firstpost/</guid>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://rajneesh2k10.github.io/posts/readme/</link>
+      <link>http://localhost:1313/posts/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rajneesh2k10.github.io/posts/readme/</guid>
+      <guid>http://localhost:1313/posts/readme/</guid>
       <description>&lt;h1 id=&#34;obsidian-vault&#34;&gt;obsidian-vault&lt;/h1&gt;</description>
     </item>
   </channel>
