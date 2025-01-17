@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rajneesh.me/posts/firstpost/</loc>
-  </url><url>
-    <loc>https://rajneesh.me/categories/</loc>
+    <lastmod>2025-01-17T14:37:27-08:00</lastmod>
   </url><url>
     <loc>https://rajneesh.me/posts/</loc>
+    <lastmod>2025-01-17T14:37:27-08:00</lastmod>
   </url><url>
     <loc>https://rajneesh.me/</loc>
+    <lastmod>2025-01-17T14:37:27-08:00</lastmod>
+  </url><url>
+    <loc>https://rajneesh.me/categories/</loc>
   </url><url>
     <loc>https://rajneesh.me/tags/</loc>
   </url>
